@@ -1,1 +1,18 @@
-ceva
+stackoverflow.com este un site creat pentru a permite utilizatorilor 
+sa puna intrebari sau sa raspunda la intrebari din domeniul programarii.
+ interfata principala este una intuitiva, sub forma de meniu lateral si bara
+ de cautare. prima sectiune afisata este cea care arata toate intrebarile puse
+ pe site, de la cea mai recenta. un avantaj pentru cei ce cauta raspunsuri si 
+ informatii dintr-un domeniu anume reprezinta tag-urile, adica niste etichete 
+ ce reprezinta domeniul, mediu de programare, limbajul folosit etc. pe baza tag-urilor
+ exista sectiunile wtched & ignored tags.  apoi gasim
+ sectiunea users unde putem cauta utilizatori sau putem vedea topurile. exista 
+ si un sistem de rewarding pentru acivitate pe site, in functie de care se fac 
+ diverse clasamente si usureaza gasirea unor informatii relevante sau corecte.
+ alte sectiune interesante si utile sunt hot network questions si meta posts.
+ aceste rankinguri au la baza sistemul de votare a intrebarilor si raspunsurilor,
+ de asemenea util in gasirea unui raspuns corect. sectiunile de jobs si companies 
+ mi se par deosebit de utile si nu stiam ca exista pana azi, iar la fel de utile 
+ mi se par filtrele de cautare pentru acestea. apreciez ca exista un help center 
+ bine pus la punct si faptul ca este un site vizual placut, aerisit si util, fara
+ de care nu as fi ajuns in anul 4, si fara de care probabil nici nu il voi finaliza <3 
